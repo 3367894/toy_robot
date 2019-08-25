@@ -97,3 +97,12 @@ REPORT
 ## Acknowledgement
 
 The Toy Robot Challenge was originally formulated by [Jon Eaves](https://twitter.com/joneaves)
+
+## Configuration
+
+You can use `config/tabletop.yml.sample` to create file `config/tabletop.yml` with configuration of 
+dimensions of tabletop
+
+## How to run
+
+`bundle exec ruby main.rb`
